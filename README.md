@@ -5,14 +5,20 @@ I'm just a guy trying to have some making and playing video games.
 
 
 🔭 My coding freelance projects:
-- Personal Minecraft server
+- Personal Minecraft server - 250k unique accounts
 - 2D Unity Shooter game
 - Mobile Applications with Flutter
 
+🖥️Working as a Web Developer
+- I create and manage online applications
+- Creating PIMs, ERPs and OMSs for ecommerce stores
+- Solving problems and making connections
+
 ⚡ Languages and frameworks
-- PHP
+- PHP, JavaScript
 - C#
-- JavaScript, SQL
+- SQL
+- Laravel
 
 🌱 I’m currently learning more about game design and game development!
 
